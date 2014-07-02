@@ -98,7 +98,7 @@
     {
       "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
       "classname": "CCNode",
-      "name": "[Node]",
+      "name": null,
       "canedit": true,
       "objecttag": 10006,
       "rotation": 0,
