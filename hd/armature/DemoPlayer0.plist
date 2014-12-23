@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 	<dict>
@@ -7,13 +7,13 @@
 			<key>1.png</key>
 			<dict>
 				<key>width</key>
-				<integer>20</integer>
+				<integer>40</integer>
 				<key>height</key>
-				<integer>32</integer>
+				<integer>64</integer>
 				<key>originalWidth</key>
-				<integer>20</integer>
+				<integer>40</integer>
 				<key>originalHeight</key>
-				<integer>32</integer>
+				<integer>64</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -26,15 +26,15 @@
 			<key>hat.png</key>
 			<dict>
 				<key>width</key>
-				<integer>45</integer>
+				<integer>90</integer>
 				<key>height</key>
-				<integer>45</integer>
+				<integer>91</integer>
 				<key>originalWidth</key>
-				<integer>45</integer>
+				<integer>90</integer>
 				<key>originalHeight</key>
-				<integer>45</integer>
+				<integer>91</integer>
 				<key>x</key>
-				<integer>22</integer>
+				<integer>42</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -45,15 +45,15 @@
 			<key>7.png</key>
 			<dict>
 				<key>width</key>
-				<integer>14</integer>
+				<integer>29</integer>
 				<key>height</key>
-				<integer>11</integer>
+				<integer>22</integer>
 				<key>originalWidth</key>
-				<integer>14</integer>
+				<integer>29</integer>
 				<key>originalHeight</key>
-				<integer>11</integer>
+				<integer>22</integer>
 				<key>x</key>
-				<integer>69</integer>
+				<integer>134</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -64,15 +64,15 @@
 			<key>2.png</key>
 			<dict>
 				<key>width</key>
-				<integer>18</integer>
+				<integer>37</integer>
 				<key>height</key>
-				<integer>25</integer>
+				<integer>50</integer>
 				<key>originalWidth</key>
-				<integer>18</integer>
+				<integer>37</integer>
 				<key>originalHeight</key>
-				<integer>25</integer>
+				<integer>50</integer>
 				<key>x</key>
-				<integer>85</integer>
+				<integer>165</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -83,15 +83,15 @@
 			<key>6.png</key>
 			<dict>
 				<key>width</key>
-				<integer>47</integer>
+				<integer>94</integer>
 				<key>height</key>
-				<integer>40</integer>
+				<integer>80</integer>
 				<key>originalWidth</key>
-				<integer>47</integer>
+				<integer>94</integer>
 				<key>originalHeight</key>
-				<integer>40</integer>
+				<integer>80</integer>
 				<key>x</key>
-				<integer>105</integer>
+				<integer>204</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -102,15 +102,15 @@
 			<key>4.png</key>
 			<dict>
 				<key>width</key>
-				<integer>14</integer>
+				<integer>28</integer>
 				<key>height</key>
-				<integer>11</integer>
+				<integer>22</integer>
 				<key>originalWidth</key>
-				<integer>14</integer>
+				<integer>28</integer>
 				<key>originalHeight</key>
-				<integer>11</integer>
+				<integer>22</integer>
 				<key>x</key>
-				<integer>154</integer>
+				<integer>300</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -121,15 +121,15 @@
 			<key>5.png</key>
 			<dict>
 				<key>width</key>
-				<integer>19</integer>
+				<integer>38</integer>
 				<key>height</key>
-				<integer>23</integer>
+				<integer>47</integer>
 				<key>originalWidth</key>
-				<integer>19</integer>
+				<integer>38</integer>
 				<key>originalHeight</key>
-				<integer>23</integer>
+				<integer>47</integer>
 				<key>x</key>
-				<integer>170</integer>
+				<integer>330</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -140,15 +140,15 @@
 			<key>3.png</key>
 			<dict>
 				<key>width</key>
-				<integer>24</integer>
+				<integer>49</integer>
 				<key>height</key>
-				<integer>47</integer>
+				<integer>95</integer>
 				<key>originalWidth</key>
-				<integer>24</integer>
+				<integer>49</integer>
 				<key>originalHeight</key>
-				<integer>47</integer>
+				<integer>95</integer>
 				<key>x</key>
-				<integer>191</integer>
+				<integer>370</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -159,15 +159,15 @@
 			<key>8.png</key>
 			<dict>
 				<key>width</key>
-				<integer>13</integer>
+				<integer>27</integer>
 				<key>height</key>
-				<integer>18</integer>
+				<integer>36</integer>
 				<key>originalWidth</key>
-				<integer>13</integer>
+				<integer>27</integer>
 				<key>originalHeight</key>
-				<integer>18</integer>
+				<integer>36</integer>
 				<key>x</key>
-				<integer>217</integer>
+				<integer>421</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
