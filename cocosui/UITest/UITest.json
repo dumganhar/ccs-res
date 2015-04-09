@@ -347,45 +347,6 @@
           "vectorX": 0,
           "vectorY": -0.5
         }
-      },
-      {
-        "classname": "Label",
-        "name": null,
-        "children": [],
-        "options": {
-          "__type": "ComGUILabelSurrogate:#EditorCommon.JsonModel.Component.GUI",
-          "classname": "Label",
-          "name": "back",
-          "ZOrder": 6,
-          "actiontag": 114,
-          "anchorPointX": 0.5,
-          "anchorPointY": 0.5,
-          "classType": null,
-          "colorB": 255,
-          "colorG": 255,
-          "colorR": 255,
-          "flipX": false,
-          "flipY": false,
-          "height": 24,
-          "opacity": 255,
-          "rotation": 0,
-          "scaleX": 1,
-          "scaleY": 1,
-          "tag": 87,
-          "touchAble": true,
-          "useMergedTexture": false,
-          "visible": true,
-          "width": 48,
-          "x": 430,
-          "xProportion": 0.8958333,
-          "y": 30,
-          "yProportion": 0.09375,
-          "fontName": "SongTypeFont",
-          "fontSize": 24,
-          "fontType": 0,
-          "text": "Back",
-          "touchSacleEnable": true
-        }
       }
     ],
     "options": {
