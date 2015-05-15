@@ -7,7 +7,7 @@
             <key>animationbuttonnormal.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{420,2},{80,40}}</string>
+                <string>{{84,86},{80,40}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -20,7 +20,7 @@
             <key>animationbuttonpressed.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{338,2},{80,40}}</string>
+                <string>{{2,86},{80,40}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -33,7 +33,7 @@
             <key>buttonnormal.9.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{254,2},{82,42}}</string>
+                <string>{{166,46},{82,42}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -46,7 +46,7 @@
             <key>buttonpressed.9.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{170,2},{82,42}}</string>
+                <string>{{166,2},{82,42}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -59,11 +59,11 @@
             <key>monster.9.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{86,2},{56,82}}</string>
+                <string>{{60,2},{56,82}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{56,82}}</string>
                 <key>sourceSize</key>
@@ -76,7 +76,7 @@
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{56,82}}</string>
                 <key>sourceSize</key>
@@ -88,13 +88,13 @@
             <key>format</key>
             <integer>2</integer>
             <key>realTextureFileName</key>
-            <string>spritesheet.png</string>
+            <string>android9patch.png</string>
             <key>size</key>
-            <string>{502,60}</string>
+            <string>{250,128}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:23cdd3e10246919231d2ccefc613f274:abcb5a048433c1c9927fed757905bef3:1de88c2a7237d4cdf78de8d8ad4f4c7e$</string>
+            <string>$TexturePacker:SmartUpdate:b3847253bb6f17aaadc6b0fc3d5f3be0:abcb5a048433c1c9927fed757905bef3:61f3f0de0f6ab61d7b5ebe63619b7615$</string>
             <key>textureFileName</key>
-            <string>spritesheet.png</string>
+            <string>android9patch.png</string>
         </dict>
     </dict>
 </plist>
